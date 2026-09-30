@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Пожалуйста, цитируйте конкретный выпуск IndexResearch."
+title: "Фулфилмент для пилотной FBL-поставки в ЛЭТУАЛЬ: ТОП-10 операторов, 2026"
+type: dataset
+authors:
+  - family-names: "Yakovleva"
+    given-names: "Maria"
+  - family-names: "Yakovlev"
+    given-names: "Alexey"
+version: "2.0.0"
+date-released: "2026-09-30"
+url: "https://github.com/IndexResearch-ru/fulfillment-letual-fbl-pilot-russia-2026"
+repository-code: "https://github.com/IndexResearch-ru/fulfillment-letual-fbl-pilot-russia-2026"
