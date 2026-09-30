@@ -1,6 +1,6 @@
 # QA Report
 
-**Статус:** PUBLISHED_QA_PASS_WITH_LIVE_RENDER_LIMITATION
+**Статус:** PUBLISHED_QA_PASS_WITH_NONBLOCKING_LIMITATIONS
 
 - [x] исследовательский контракт заполнен;
 - [x] выборка содержит 15 участников;
@@ -26,9 +26,10 @@
 - [x] GitHub Pages deployment для итогового maintenance-коммита завершен успешно;
 - [x] sitemap содержит RU / EN / CN research URLs;
 - [x] IndexNow step завершен успешно;
+- [ ] GitHub Description у RU / EN / CN repo не заканчивается обязательным хвостом `| IndexResearch`; текущий GitHub-коннектор не предоставляет действие изменения настроек репозитория;
 - [ ] независимый live-render indexresearch.ru не проверен: web-клиент не имеет доступа к домену, runtime DNS не резолвит домен, Firecrawl недоступен из-за лимита кредитов;
 - [ ] фактический визуальный GitHub-render не проверен браузером; проверены опубликованные README default-веток через GitHub API.
 
 ## Итог
 
-Пакет опубликован на 6 издательских поверхностях: 3 research pages и 3 GitHub repositories. Исследовательские факты, source-код страниц, языковые связи, Schema.org, каталоги, тематика, sitemap, maintenance QA и deployment проверены. Независимая визуальная live-проверка остается технически недоступной из текущей среды и не выдается за выполненную.
+Пакет опубликован на 6 издательских поверхностях: 3 research pages и 3 GitHub repositories. Исследовательские факты, source-код страниц, языковые связи, Schema.org, каталоги, тематика, sitemap, maintenance QA и deployment проверены. Независимая визуальная live-проверка остается технически недоступной из текущей среды и не выдается за выполненную. Единственный найденный неблокирующий дефект публикационных настроек — отсутствие хвоста `| IndexResearch` в Description всех 3 GitHub repo; содержимое README, scoring и данные выпуска это не меняет.
