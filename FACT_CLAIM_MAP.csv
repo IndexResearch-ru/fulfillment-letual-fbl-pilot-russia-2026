@@ -1,0 +1,106 @@
+claim_id,participant,criterion_id,final_code_0_5,claim,source_ids,confidence,status
+V2CLM001,Преп-Центр,V2C1,5,Старт от 100 единиц и расчет по набору операций подтверждают низкий порог пилота.,PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM002,Преп-Центр,V2C2,5,"Опубликованы 133 тарифа и отдельные FBL-тарифы, смета модульна.",PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM003,Преп-Центр,V2C3,5,"Подтверждены косметика, жидкости, герметичность, сроки и сложная защита.",PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM004,Преп-Центр,V2C4,5,"ВПП, термоусадка, наборы, короба и паллеты входят в единый процесс.",PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM005,Преп-Центр,V2C5,4,Data Matrix/КИЗ наносятся и контролируются; глубокий B2B traceability уровня 5 подтвержден не полностью.,PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM006,Преп-Центр,V2C6,5,Есть отдельный текущий FBL-процесс ЛЭТУАЛЬ с центральным складом и доставкой.,PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM007,Преп-Центр,V2C7,5,Кейс 8400 единиц косметики за 2 рабочих дня подтверждает максимальный уровень скорости.,PC001 | PC002 | PC003 | PC004 | PC005,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM008,FullBox,V2C1,4,"Небольшой старт от 100 возможен, но основной профиль от 1000 и разовая микропоставка без роста прямо названа неподходящей; поэтому 4, а не 5.",FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM009,FullBox,V2C2,5,Фиксированные ставки и калькулятор позволяют заранее собрать существенную часть сметы.,FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM010,FullBox,V2C3,5,"Полный beauty-процесс: сроки, герметичность, стекло, наборы.",FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM011,FullBox,V2C4,5,"Сложная упаковка, наборы, короба/паллеты и транспортная подготовка подтверждены.",FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM012,FullBox,V2C5,5,"ЧЗ, Data Matrix, агрегация и передача данных раскрыты глубоко.",FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM013,FullBox,V2C6,4,"ЛЭТУАЛЬ указана как обслуживаемая площадка и есть полный FBO-процесс, но отдельного текущего FBL-регламента нет.",FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM014,FullBox,V2C7,5,Стандартный запуск до первой отгрузки заявлен за 1 рабочий день.,FB001 | FB002 | FB003 | FB004,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM015,Кактус,V2C1,1,"Нет минимума по количеству, но минимальный ежемесячный платеж 150000 руб. делает малую разовую партию экономически несопоставимой.",KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM016,Кактус,V2C2,5,Подробная пооперационная тарифная сетка подтверждает максимальную прозрачность.,KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM017,Кактус,V2C3,5,Сильный beauty-процесс со сроками/качеством/упаковкой подтвержден.,KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM018,Кактус,V2C4,5,"Сложная упаковка, наборы, короба и паллеты подтверждены.",KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM019,Кактус,V2C5,5,Глубокая работа с ЧЗ/WMS/агрегацией подтверждена.,KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM020,Кактус,V2C6,5,Есть отдельная инструкция FBO ЛЭТУАЛЬ и доставка на центральный склад.,KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM021,Кактус,V2C7,3,Короткий 1–2-дневный SLA сопоставимой пилотной beauty-партии публично не подтвержден.,KAK001 | KAK002 | KAK003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM022,FlexFF,V2C1,2,"Порог и минимум для малой партии раскрыты слабо, условия индивидуальны.",FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM023,FlexFF,V2C2,2,Публичная смета по операциям ограничена.,FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM024,FlexFF,V2C3,2,Есть косметика/жидкости без полного beauty-контроля.,FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM025,FlexFF,V2C4,4,Короба/паллеты и несколько видов упаковки подтверждены.,FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM026,FlexFF,V2C5,3,"КИЗ считываются/проверяются, но глубокая прослеживаемость не доказана.",FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM027,FlexFF,V2C6,4,ЛЭТУАЛЬ заявлена среди направлений и есть FBO-процесс.,FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM028,FlexFF,V2C7,4,Стандартная партия до 1000 единиц около 3 рабочих дней.,FLX001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM029,FullMark,V2C1,3,"Публичный расчет включает объемы до 500 единиц, но отсутствие крупного минимума не доказано.",FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM030,FullMark,V2C2,5,Пооперационный прайс достаточно детален для предварительной сметы.,FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM031,FullMark,V2C3,3,Косметика/бытхим и защита от протечек подтверждены частично.,FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM032,FullMark,V2C4,4,Короба и несколько типов защиты подтверждены.,FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM033,FullMark,V2C5,3,"КИЗ наносятся и сканируются, но глубокая traceability не доказана.",FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM034,FullMark,V2C6,3,"Полный FBO есть, ЛЭТУАЛЬ не подтверждена.",FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM035,FullMark,V2C7,4,"Заявлен путь поставки до 48 часов, но нет кейса сопоставимой пилотной партии для максимума 5.",FM001 | FM002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM036,Fox2Box,V2C1,3,"Нет минимума по направлению, но складской минимум обсуждается индивидуально; для пилота это уровень 3.",FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM037,Fox2Box,V2C2,3,"Расчет по операциям доступен, но часть условий остается у менеджера.",FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM038,Fox2Box,V2C3,4,"Косметика, сроки, протечки и хрупкая упаковка подтверждены.",FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM039,Fox2Box,V2C4,4,"ВПП/термоусадка, короба/паллеты подтверждены.",FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM040,Fox2Box,V2C5,5,"Data Matrix, валидация, ввод в оборот, агрегация и УПД/ЭДО подтверждены.",FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM041,Fox2Box,V2C6,3,"FBO и регулярная логистика подтверждены, ЛЭТУАЛЬ нет.",FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM042,Fox2Box,V2C7,4,Приемка в день поступления подтверждена; весь цикл зависит от набора операций и рейса.,FOX001 | FOX002 | FOX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM043,Full-Fix,V2C1,4,Публично заявлены новички с первой поставкой и объем от 100 единиц в месяц; признаков крупного обязательного платежа нет.,FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM044,Full-Fix,V2C2,2,Стоимость рассчитывается индивидуально; публичной детальной сетки недостаточно.,FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM045,Full-Fix,V2C3,2,"Косметика упоминается, но полноценный beauty-процесс не раскрыт.",FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM046,Full-Fix,V2C4,4,"Упаковка, грузовые места и несколько типов защиты подтверждены.",FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM047,Full-Fix,V2C5,5,"Двухэтапное сканирование, агрегация и КРПТ дают максимальную глубину ЧЗ.",FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM048,Full-Fix,V2C6,3,"Полный FBO/логистика на склады маркетплейсов есть, ЛЭТУАЛЬ отдельно нет.",FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM049,Full-Fix,V2C7,3,"Приемка за 24 часа и ежедневные отгрузки подтверждены, но полный 1–2-дневный цикл пилотной beauty-партии не доказан.",FFX001 | FFX002 | FFX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM050,Будет сделано!,V2C1,4,"Низкий денежный минимум по направлению и пооперационный расчет делают пилот доступным, хотя точный минимум по единицам не заявлен.",WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM051,Будет сделано!,V2C2,5,Калькулятор содержит детальные ставки по операциям.,WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM052,Будет сделано!,V2C3,3,"Beauty-боксы и сложная упаковка есть, полный контроль сроков/герметичности раскрыт не полностью.",WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM053,Будет сделано!,V2C4,5,"ВПП, термоусадка, наборы, короба и паллеты подтверждены.",WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM054,Будет сделано!,V2C5,4,КИЗ сканируются и проверяются на дубли; глубокая УПД/агрегация уровня 5 не доказана.,WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM055,Будет сделано!,V2C6,3,"FBO на центральные/региональные склады подтвержден, ЛЭТУАЛЬ нет.",WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM056,Будет сделано!,V2C7,4,Срочный режим до 48 часов от поступления подтвержден.,WBD001 | WBD002 | WBD003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM057,Helpberries,V2C1,4,Работа с любым объемом при минимальной сумме работ 5000 руб. соответствует уровню 4.,HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM058,Helpberries,V2C2,4,"Опубликованы основные ставки, но полный фулфилмент под ключ считается индивидуально.",HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM059,Helpberries,V2C3,5,"Кейс косметики подтверждает сроки, жидкости, бой и защитную упаковку.",HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM060,Helpberries,V2C4,5,Сложная beauty-упаковка и FBO грузовые места подтверждены.,HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM061,Helpberries,V2C5,5,"ЧЗ, скан-контроль, УПД и агрегация раскрыты глубоко.",HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM062,Helpberries,V2C6,3,"FBO-слоты и доставка есть, ЛЭТУАЛЬ отдельно нет.",HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM063,Helpberries,V2C7,4,"Кейс подтверждает быстрый SLA, но полный срок отдельной FBO beauty-партии зависит от ТЗ.",HLP001 | HLP002 | HLP003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM064,LOGIDEX,V2C1,5,Минимум 100 единиц и отсутствие доплат за малый объем подтверждены.,LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM065,LOGIDEX,V2C2,5,Калькулятор и детальные ставки дают прозрачную модульную смету.,LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM066,LOGIDEX,V2C3,4,"Косметика/парфюмерия, сроки и хрупкие товары подтверждены.",LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM067,LOGIDEX,V2C4,4,Упаковка по регламентам и формирование грузовых мест подтверждены.,LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM068,LOGIDEX,V2C5,4,КИЗ проверяются и ведутся в CRM/API; агрегация/УПД уровня 5 не доказаны.,LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM069,LOGIDEX,V2C6,3,"Полный FBO, слоты и доставка есть, ЛЭТУАЛЬ нет.",LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM070,LOGIDEX,V2C7,5,"Стандартная партия до 1000 единиц — 48 часов, срочная — 24 часа.",LGX001 | LGX002 | LGX003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM071,Nitropack,V2C1,3,"Комфортный публичный минимум 500 единиц в месяц, пробные партии индивидуально: уровень 3.",NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM072,Nitropack,V2C2,5,Прайс и калькулятор позволяют детально оценить операции.,NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM073,Nitropack,V2C3,4,"Сильная косметика: сроки, стекло/флаконы, WMS и защита.",NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM074,Nitropack,V2C4,4,"ВПП, короба и паллетная отгрузка подтверждены.",NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM075,Nitropack,V2C5,3,100% сканирование КИЗ при укладке подтверждает уровень 3; агрегация/УПД не показаны.,NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM076,Nitropack,V2C6,3,"FBO-доставка на маркетплейсы подтверждена, ЛЭТУАЛЬ нет.",NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM077,Nitropack,V2C7,3,Короткий SLA сопоставимой пилотной партии не опубликован.,NIT001 | NIT002 | NIT003,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM078,WBBK / КОН,V2C1,3,Явный минимум по объему не опубликован; работа и цена считаются под нишу/объем.,WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM079,WBBK / КОН,V2C2,4,"Открытые ставки покрывают основные операции, точная смета зависит от партии.",WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM080,WBBK / КОН,V2C3,5,"Полный beauty-профиль: сроки, целостность, хрупкость и наборы.",WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM081,WBBK / КОН,V2C4,5,"Наборы, ВПП, короба/паллеты подтверждены.",WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM082,WBBK / КОН,V2C5,3,"ЧЗ/КИЗ есть, но без глубокой агрегации/ЭДО.",WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM083,WBBK / КОН,V2C6,3,"FBO на основные маркетплейсы подтвержден, ЛЭТУАЛЬ нет.",WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM084,WBBK / КОН,V2C7,4,Приемка день в день и отгрузка за 36 часов подтверждены.,WBBK001 | WBBK002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM085,Родной Дом,V2C1,5,Прямо заявлены отсутствие минимального объема и постоплата по фактически обработанному товару.,RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM086,Родной Дом,V2C2,5,"Есть открытые пооперационные ставки по приемке, браку, упаковке, ЧЗ и FBO.",RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM087,Родной Дом,V2C3,5,"Полный beauty-процесс: сроки, протечки, хрупкая тара и наборы.",RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM088,Родной Дом,V2C4,5,"ВПП, термоусадка, наборы, короба и паллеты подтверждены.",RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM089,Родной Дом,V2C5,3,"Data Matrix/ЧЗ наносятся, но глубокая traceability не показана.",RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM090,Родной Дом,V2C6,3,"FBO-доставка подтверждена, ЛЭТУАЛЬ отдельно нет.",RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM091,Родной Дом,V2C7,3,"Быстрые FBS cut-off есть, но отдельный короткий SLA полной пилотной FBO beauty-партии не подтвержден.",RD001 | RD002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM092,TWOBOX,V2C1,3,"Оплата за фактические операции и открытые ставки подтверждены, но явный старт от 100/отсутствие крупного минимума не зафиксированы.",TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM093,TWOBOX,V2C2,4,"Открытые базовые ставки дают хорошую, но не полную предварительную смету.",TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM094,TWOBOX,V2C3,1,Отдельная beauty-специализация не подтверждена.,TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM095,TWOBOX,V2C4,3,Несколько типов упаковки и FBO подтверждены без сложного beauty-процесса.,TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM096,TWOBOX,V2C5,2,ЧЗ заявлен без глубокой проверки/агрегации.,TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM097,TWOBOX,V2C6,3,"FBO WB/Ozon подтвержден, ЛЭТУАЛЬ нет.",TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM098,TWOBOX,V2C7,3,"Есть общая регулярная производительность, но короткий SLA пилотной beauty-партии не показан.",TWO001,medium-high,FINAL_SCORING_EVIDENCE_V2
+V2CLM099,Yunu,V2C1,4,Минимальная стоимость приемки накладной 300 руб. и отсутствие признаков крупного обязательного платежа дают уровень 4.,YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM100,Yunu,V2C2,5,Детальный прайс и расчет FBO/FBS обеспечивают максимальную прозрачность.,YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM101,Yunu,V2C3,1,Специализированная обработка косметики/парфюмерии не подтверждена.,YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM102,Yunu,V2C4,3,Базовая упаковка и грузовые места для FBO подтверждены.,YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM103,Yunu,V2C5,2,"ЧЗ заявлен, но конкретная цепочка сканирования/агрегации/ЭДО не раскрыта.",YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM104,Yunu,V2C6,3,"FBO/FBS подтверждены, ЛЭТУАЛЬ нет.",YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
+V2CLM105,Yunu,V2C7,3,"Высокая FBS-производительность подтверждена, но она не равна короткому SLA отдельной FBO beauty-партии; уровень 3.",YUN001 | YUN002,high,FINAL_SCORING_EVIDENCE_V2
