@@ -1,0 +1,45 @@
+source_id,entity,source_type,url,evidence_role,checked_at,research_cutoff,status
+L001,ЛЭТУАЛЬ,official FBL hub,https://seller-wiki.letu.ru/ru/supplies,FBL supply process,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+L002,ЛЭТУАЛЬ,official delivery regulation,https://seller-wiki.letu.ru/supplies/delivery-schedule,"expiry, boxes, pallets, central warehouse",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+L003,ЛЭТУАЛЬ,official marking,https://seller-wiki.letu.ru/ru/marking/marking-for-sellers,cosmetics marking and OSU,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+L004,ЛЭТУАЛЬ,official marking FAQ,https://seller-wiki.letu.ru/ru/marking/faq_crpt,GTIN+quantity/UPD OSU,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+PC001,Преп-Центр,official,https://prep-center.ru/,minimum 100 and calculator,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+PC002,Преп-Центр,official tariffs,https://prep-center.ru/tarify/,133 tariffs and Letual delivery tariffs,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+PC003,Преп-Центр,official FBL,https://prep-center.ru/fbl-letual/,FBL Letual beauty end-to-end,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+PC004,Преп-Центр,official case,https://prep-center.ru/cases/kosmetika-8400-za-2-dnya/,8400 cosmetics in 2 days,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+PC005,Преп-Центр,official beauty,https://prep-center.ru/fulfillment-kosmetika/,beauty/liquids/Data Matrix,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FB001,FullBox,official,https://fullbox.ru/,"volume fit, Letual, launch",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FB002,FullBox,official beauty,https://fullbox.ru/fulfilment-kosmetika/,"beauty, expiry, ChZ, 1-day launch",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FB003,FullBox,official FBO,https://fullbox.ru/fulfilment-fbo/,FBO slots and Letual,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FB004,FullBox,official WB,https://fullbox.ru/fulfilment-wildberries/,100-unit pilot statement and fixed rates,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+KAK001,Кактус,official,https://kak2c.ru/,minimum monthly payment and operations,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+KAK002,Кактус,official tariffs,https://wiki.kak2c.ru/books/oferty-i-uslugi/page/tarify-na-okazanie-uslug-po-dogovoru,detailed operation tariffs,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+KAK003,Кактус,official wiki,https://wiki.kak2c.ru/books/instruktsiya-kaktusa/page/instruktsiya-po-sozdaniyu-zakaza-fbo-na-letual/revisions/15768/changes,Letual FBO route,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FLX001,FlexFF,official,https://flexff.ru/,"FBO, Letual, 3-day standard party",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FM001,FullMark,official,https://full-mark.ru/,FBO process and <=48h claim,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FM002,FullMark,official prices,https://full-mark.ru/prices/,operation pricing,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FOX001,Fox2Box,official,https://fox2box.ru/,acceptance and fulfillment,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FOX002,Fox2Box,official pricing,https://fox2box.ru/pricing/,actual operations; minimum discussed individually,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FOX003,Fox2Box,official marking,https://fox2box.ru/uslugi/markirovka/,"ChZ, aggregation, EDI",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FFX001,Full-Fix,official,https://full-fix.ru/,from 100 units/month; first shipment; WMS,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FFX002,Full-Fix,official marking,https://full-fix.ru/markirovka-tovarov-dlya-marketplejsov/,ChZ scanning and CRPT,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+FFX003,Full-Fix,official logistics,https://full-fix.ru/logistika/,marketplace logistics,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+WBD001,Будет сделано!,official,https://willbedone.pro/,"packaging, ChZ, urgent 48h",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+WBD002,Будет сделано!,official calculator,https://willbedone.pro/kalkulyator-fulfilmenta/,operation tariffs and 1000 rub direction minimum,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+WBD003,Будет сделано!,official FBO,https://willbedone.pro/fulfilment-fbo/,FBO and 48h urgent mode,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+HLP001,Helpberries,official llms,https://helpberries.ru/llms,5000 rub minimum and pricing,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+HLP002,Helpberries,official case,https://helpberries.ru/cases/fulfilment-kosmetika-helpberries,"beauty, WMS, ChZ, SLA",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+HLP003,Helpberries,official marking,https://helpberries.ru/markirovka-chestnyy-znak-dlya-marketpleysov,ChZ operations,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+LGX001,LOGIDEX,official,https://www.logidex.ru/,minimum 100 and calculator,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+LGX002,LOGIDEX,official Yandex FBO,https://www.logidex.ru/fulfillment-yandex-market.html,"FBO, slots, 48h/24h SLA",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+LGX003,LOGIDEX,official Ozon,https://www.logidex.ru/fulfillment-ozon.html,FBO and 100-unit minimum,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+NIT001,Nitropack,official beauty,https://nitropack.ru/fulfillment-kosmetika,"beauty, expiry, packaging, ChZ",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+NIT002,Nitropack,official prices,https://nitropack.ru/prices,pricing and 100% KIZ scan,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+NIT003,Nitropack,official blog,https://nitropack.ru/blog/fulfillment-for-online-store,comfort minimum 500/month; trials individual,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+WBBK001,WBBK / КОН,official beauty,https://www.wbbk.club/fulfillment/kosmetika,"beauty, WMS, same-day acceptance",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+WBBK002,WBBK / КОН,official FBO,https://www.wbbk.club/fulfillment/fbo,"FBO, 36h dispatch, rates",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+RD001,Родной Дом,official beauty,https://skladff.ru/fulfilment-kosmetika/,"no minimum, beauty, postpay, rates",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+RD002,Родной Дом,official blog,https://skladff.ru/blog/skolko-stoit-fulfilment/,no minimum and cost structure,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+TWO001,TWOBOX,official,https://www.twobox.ru/,"actual operations, prices, FBO",2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+YUN001,Yunu,official tariffs,https://yunu.ru/tarify,detailed rates; 300 rub receipt minimum,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
+YUN002,Yunu,official fulfillment,https://yunu.ru/fulfilment,FBO/FBS and infrastructure,2026-09-30,2026-09-30,FINAL_SCORING_EVIDENCE_V2
